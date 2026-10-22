@@ -1,0 +1,29 @@
+{
+  "datasets": [
+    {
+      "id": "cats",
+	  "file": "data/cats.csv",
+      "description": "Cat breeds, origins, temperaments, life spans, weights, and images"
+    },
+    {
+      "id": "board-games",
+	  "file": "data/board-games.csv",
+      "description": "Board games with player counts, play times, categories, mechanics, and designers"
+    },
+    {
+      "id": "viral-50-usa",
+	   "file": "data/viral-50-usa.csv",
+      "description": "A sample Viral 50 USA music chart with track positions and artists"
+	  },
+	  {
+	  "id": "underdog-data",
+	  "file": "data/underdog-data.csv",
+      "description": "50 Marvel characters with name, real name, 1st appearance, powers, popularity, power level, notable feature, and why underdog"
+    },
+    {
+      "id": "game-list",
+      "file": "data/game-list.csv",
+      "description": "A list of 30 popular-ish board games with details such as title, genre, platform, and release date"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+slug,name,year,designer,publisher,minPlayers,maxPlayers,minPlayTime,maxPlayTime,minAge,complexity,category,cooperative,tags,description
+catan,Catan,1995,Klaus Teuber,Kosmos,3,4,60,120,10,medium,strategy,false,trading|resource management|classic,"Settle an island, trade resources, and race to 10 victory points."
+ticket-to-ride,Ticket to Ride,2004,Alan R. Moon,Days of Wonder,2,5,30,60,8,light,family,false,trains|set collection|gateway game,Collect train cards and claim routes to connect cities across the map.
+carcassonne,Carcassonne,2000,Klaus-Jürgen Wrede,Hans im Glück,2,5,30,45,7,light,family,false,tile placement|medieval|gateway game,Place tiles to build a medieval landscape and put followers on it to score points.
+pandemic,Pandemic,2008,Matt Leacock,Z-Man Games,2,4,45,45,8,medium,cooperative,true,cooperative|disease|teamwork,Work as a team to treat diseases and find cures before outbreaks overwhelm the world.
+codenames,Codenames,2015,Vlaada Chvátil,Czech Games Edition,2,8,15,15,14,light,party,false,word game|teams|clues,Two teams of spies give one-word clues to find their agents on a grid of words.
+azul,Azul,2017,Michael Kiesling,Plan B Games,2,4,30,45,8,light,family,false,tile drafting|abstract|colorful,Draft colorful tiles to decorate a palace wall and score patterns.
+wingspan,Wingspan,2019,Elizabeth Hargrave,Stonemaier Games,1,5,40,70,10,medium,strategy,false,birds|engine building|card game,Attract birds to your wildlife preserve and build an engine out of card combos.
+splendor,Splendor,2014,Marc André,Space Cowboys,2,4,30,30,10,light,strategy,false,gems|engine building|renaissance,"Collect gems, buy mines, and attract nobles as a Renaissance merchant."
+7-wonders,7 Wonders,2010,Antoine Bauza,Repos Production,2,7,30,30,10,medium,strategy,false,card drafting|civilization|ancient,Draft cards over three ages to build an ancient civilization and its wonder.
+dominion,Dominion,2008,Donald X. Vaccarino,Rio Grande Games,2,4,30,30,13,medium,card game,false,deck building|strategy|classic,"Build your own deck of cards as the game goes on, in the original deck-building game."
+agricola,Agricola,2007,Uwe Rosenberg,Lookout Games,1,5,30,150,12,heavy,strategy,false,farming|worker placement|long game,"Raise a family and build a farm while balancing food, animals, and crops."
+scythe,Scythe,2016,Jamey Stegmaier,Stonemaier Games,1,5,90,115,14,heavy,strategy,false,alternate history|area control|engine building,Lead a faction in an alternate 1920s Europe by gathering resources and claiming territory.
+terraforming-mars,Terraforming Mars,2016,Jacob Fryxelius,FryxGames,1,5,120,120,12,heavy,strategy,false,space|engine building|card game,"Compete as corporations to make Mars livable by raising its temperature, oxygen, and oceans."
+gloomhaven,Gloomhaven,2017,Isaac Childres,Cephalofair Games,1,4,60,120,14,heavy,cooperative,true,campaign|dungeon crawl|fantasy,A cooperative tactical dungeon crawl with a long campaign and card-based combat.
+everdell,Everdell,2018,James A. Wilson,Starling Games,1,4,40,80,13,medium,strategy,false,woodland|worker placement|engine building,Build a woodland city of critters and constructions across the seasons.
+cascadia,Cascadia,2021,Randy Flynn,Flatout Games,1,4,30,45,10,light,family,false,nature|tile drafting|puzzle,Draft tiles and wildlife tokens to build a natural habitat and score patterns.
+sushi-go,Sushi Go!,2013,Phil Walker-Harding,Gamewright,2,5,15,15,8,light,card game,false,card drafting|quick|family,Pass hands of sushi cards around the table and pick the best combinations.
+just-one,Just One,2018,Ludovic Roudy and Bruno Sautter,Repos Production,3,7,20,20,8,light,cooperative,true,word game|party|cooperative,"A cooperative word-guessing game where players write clues, but duplicate clues get erased."
+exploding-kittens,Exploding Kittens,2015,"Elan Lee, Matthew Inman, and Shane Small",Exploding Kittens,2,5,15,15,7,light,card game,false,party|quick|humor,"Draw cards and try not to pull an exploding kitten, using sabotage cards to survive."
+coup,Coup,2012,Rikki Tahta,Indie Boards & Cards,2,6,15,15,13,light,bluffing,false,bluffing|hidden roles|quick,"Bluff your way through a game of hidden influence cards, and the last player standing wins."
+the-resistance,The Resistance,2009,Don Eskridge,Indie Boards & Cards,5,10,30,30,13,light,bluffing,false,social deduction|hidden roles|teams,Hidden roles pit a resistance against secret spies through team votes and missions.
+love-letter,Love Letter,2012,Seiji Kanai,Alderac Entertainment Group,2,4,20,20,10,light,card game,false,deduction|quick|small box,Get a letter to the princess using a tiny deck of sixteen cards and a lot of deduction.
+king-of-tokyo,King of Tokyo,2011,Richard Garfield,IELLO,2,6,30,30,8,light,family,false,dice|monsters|push your luck,"Giant monsters roll dice to attack, heal, and collect points in a city smash-up."
+dixit,Dixit,2008,Jean-Louis Roubira,Libellud,3,6,30,30,8,light,party,false,storytelling|art|creative,"Players give clues for illustrated cards, and everyone guesses which card belongs to the storyteller."
+takenoko,Takenoko,2011,Antoine Bauza,Bombyx,2,4,45,45,8,light,family,false,garden|panda|objectives,Tend a bamboo garden and feed a panda while completing objective cards.
+patchwork,Patchwork,2014,Uwe Rosenberg,Lookout Games,2,2,15,30,8,light,family,false,two player|puzzle|quilts,Two players buy fabric patches to fill a quilt board before running out of buttons.
+kingdomino,Kingdomino,2016,Bruno Cathala,Blue Orange Games,2,4,15,15,8,light,family,false,tile drafting|quick|gateway game,Draft domino-style tiles to grow a kingdom with matching terrain.
+risk,Risk,1957,Albert Lamorisse,Hasbro,2,6,120,120,10,medium,strategy,false,dice|war|classic,Conquer the world by rolling dice to attack and defend territories.
+clue,Clue,1949,Anthony E. Pratt,Hasbro,3,6,45,45,8,light,family,false,mystery|deduction|classic,"Solve a murder mystery by deducing who did it, with what, and where."
+scrabble,Scrabble,1948,Alfred Mosher Butts,Hasbro,2,4,90,90,8,light,word game,false,words|letters|classic,Build crisscross words on a board and score points with letter and bonus squares.
