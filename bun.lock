@@ -3,7 +3,7 @@
   "configVersion": 0,
   "workspaces": {
     "": {
-      "name": "student-data-api",
+      "name": "danielles-data-api",
       "dependencies": {
         "papaparse": "^5.5.3",
       },

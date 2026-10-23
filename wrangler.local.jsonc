@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "student-data-api-local",
+  "name": "danielles-data-api-local",
   "main": "./src/index.js",
   "compatibility_date": "2026-08-27",
   "assets": {
