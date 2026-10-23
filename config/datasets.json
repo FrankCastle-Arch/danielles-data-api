@@ -23,7 +23,7 @@
     {
       "id": "game-list",
       "file": "data/game-list.csv",
-      "description": "A list of 30 popular-ish board games with details such as title, genre, platform, and release date"
+      "description": "A list of 30 popular-ish board games with player counts, play times, complexity, category, and description"
     }
   ]
 }

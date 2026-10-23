@@ -5,7 +5,9 @@ import { fileURLToPath } from "node:url";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const registry = JSON.parse(await readFile(resolve(root, "config/datasets.json"), "utf8"));
 
-for (const [id, dataset] of Object.entries(registry)) {
+for (const dataset of registry.datasets) {
+  const id = dataset.id;
+
   if (
     typeof dataset.file !== "string" ||
     !dataset.file.startsWith("data/") ||
@@ -22,4 +24,3 @@ for (const [id, dataset] of Object.entries(registry)) {
 
   console.log(`Prepared ${id}: ${dataset.file}`);
 }
-
